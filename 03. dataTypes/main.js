@@ -24,7 +24,7 @@ console.log('--------Null-------');
 let n = null;
 console.log(n);
 
-console.log('--------Underfined-------');
+console.log('--------Undefined-------');
 let u;
 console.log(u);
 
