@@ -1,3 +1,6 @@
+/**
+ * Created by Victor Isaikin
+ */
 let userName = 'Victor';
 
 console.log(userName);
